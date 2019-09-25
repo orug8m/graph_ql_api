@@ -2,7 +2,7 @@
 GraphQL API application server with Rails 6 in api mode.
 
 ## Version
-* Ruby 2.6.2
+* Ruby 2.6.4
 * Rails 6.0.0 (api mode)
 * graphql 1.9.12
 
